@@ -13,9 +13,6 @@
 
 
 
-## !USE TEXT THEME
-theme: jekyll-text-theme # Gem-based Jekyll Themes
-
 ## => Site Settings
 ##############################
 text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
